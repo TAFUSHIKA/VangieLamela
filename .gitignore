@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    int repetition = 5;  // You can modify this value to control the number of repetitions
+
+    for (int i = 0; i < repetition; ++i) {
+        printf("Sir Jundee malouy kas akoa! Papasara ko.\n");
+    }
+
+    return 0;
+}
